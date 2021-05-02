@@ -1,7 +1,7 @@
 num of class|            link page
 ------------| --------------------------------
 class1        []()
-class2      [](https://jarrar93.github.io/Code-201-Reading-Notes/class02)
+class2      [link](https://jarrar93.github.io/Code-201-Reading-Notes/class02)
 class3          []()
 class4          []()
 class5
