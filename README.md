@@ -7,7 +7,7 @@ class4         | [link](https://jarrar93.github.io/Code-201-Reading-Notes/read04
 class5         | [ link](https://jarrar93.github.io/Code-201-Reading-Notes/read05)
 class6       |[link](https://jarrar93.github.io/Code-201-Reading-Notes/read06)
 class7        |[link](https://jarrar93.github.io/Code-201-Reading-Notes/read07)
-class8
+class8         | [link](https://jarrar93.github.io/Code-201-Reading-Notes/read08)     
 class9
 class10
 class11
