@@ -1,5 +1,5 @@
 # Error handling and debugging:-
-![](https://nordicapis.com/wp-content/uploads/Tips-and-Tools-for-Debugging-APIs.png)
+![](https://nordicapis.com/wp- content/uploads/Tips-and-Tools-for-Debugging-APIs.png)
 * Debugging is the process of findinf errors. It involves a process of deduction.
 * There ‘is Developer Tools’ to debug your work.
 * If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code.
