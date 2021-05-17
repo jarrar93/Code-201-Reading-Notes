@@ -11,7 +11,7 @@ class8         | [link](https://jarrar93.github.io/Code-201-Reading-Notes/read08
 class9          |[link](https://jarrar93.github.io/Code-201-Reading-Notes/read09 )
 class10    | [ link](https://jarrar93.github.io/Code-201-Reading-Notes/read010)
 class11    |[link](https://jarrar93.github.io/Code-201-Reading-Notes/read11 )
-class12
+class12    |[link](https://jarrar93.github.io/Code-201-Reading-Notes/read12 )
 class13
 class14
 class15
